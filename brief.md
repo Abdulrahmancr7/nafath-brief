@@ -10,7 +10,7 @@ OAuth 2.0 is designed for delegated access to resources, while OpenID Connect (O
 Resource: The OAuth 2.0 Authorization Framework (RFC 6749) - https://www.rfc-editor.org/rfc/rfc6749
 
 ## AI
-The authority can use the NIST AI Risk Management Framework (AI RMF 1.0) to manage risks before launch. Govern establishes responsibilities, Map identifies risks, Measure evaluates performance and fairness, and Manage prioritises risks and responses. The authority must address privacy and security risks, including falsely flagging innocent citizens and locking them out. It should also ensure human oversight and ongoing monitoring.
+The authority can use the NIST AI Risk Management Framework (AI RMF 1.0) to manage risks before launch. Govern establishes responsibilities, Map identifies risks, Measure evaluates performance and fairness, and Manage prioritizes risks and responses. The authority must address privacy and security risks, including falsely flagging innocent citizens and locking them out. It should also ensure human oversight and ongoing monitoring.
 
 Resource: Artificial Intelligence Risk Management Framework (AI RMF 1.0) - https://www.nist.gov/itl/ai-risk-management-framework
 
