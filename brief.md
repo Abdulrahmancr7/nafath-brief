@@ -35,5 +35,7 @@ Oman’s Personal Data Protection Law (Royal Decree 6/2022) sets general rules f
 Resource: Personal Data Protection Circular (No. 6/2024) - https://www.mtcit.gov.om/library-3/guidelines-documentation-7/circulars-66/personal-data-protection-circular-765
 
 ## Misconception in My Track
+Many people believe that any multi-factor authentication code protects against phishing. However, attackers can steal or relay manually entered codes because they do not bind the authenticator output to the specific session. Passkeys and security keys provide stronger protection through cryptographic methods, such as verifier name binding, which ties credentials to the website’s origin. Channel binding is another mechanism recognized by NIST. NIST SP 800-63B-4, Section 3.2.5, “Phishing Resistance,” explains these protections and why manually entered codes are not phishing-resistant.
 
 ## Open Question
+If a citizen loses the device holding their passkey, how can the authority recover their account without weakening phishing resistance?
